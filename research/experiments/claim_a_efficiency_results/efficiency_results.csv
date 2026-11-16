@@ -1,0 +1,8 @@
+Model,Tau,Clean_Acc,Occ2_Acc,MLP_Skip_Pct,MFLOPs,FLOPs_Saved_Pct,Throughput_img_s
+Standard ViT,N/A,81.13,59.62,0.0,83.56,0.0,14314.6
+Static HAViT,N/A,79.29,59.93,0.0,83.56,0.0,13078.5
+PattuNet v3 (Full),1.0,80.96,60.63,0.0,83.56,0.0,10348.1
+PattuNet v3 (tau=0.55),0.55,80.94,60.65,15.68,75.54,9.59,9762.9
+PattuNet v3 (tau=0.45),0.45,80.7,60.6,26.85,69.84,16.43,10087.6
+PattuNet v3 (tau=0.35),0.35,79.81,59.93,40.3,62.96,24.65,10686.8
+PattuNet v3 (tau=0.25),0.25,68.18,53.28,77.57,43.91,47.46,11953.6

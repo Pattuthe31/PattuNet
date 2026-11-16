@@ -1,0 +1,11 @@
+Condition,Standard ViT_Acc,Standard ViT_F1,Static HAViT_Acc,Static HAViT_F1,PattuNet v3 (Ours)_Acc,PattuNet v3 (Ours)_F1
+Clean (Test Set),81.13,81.0,79.28,79.11,80.95,80.85
+Gaussian Noise (Sev 1),76.21,75.92,75.01,74.67,75.41,75.21
+Gaussian Noise (Sev 2),53.32,53.53,53.5,53.92,51.91,52.68
+Gaussian Noise (Sev 3),27.6,24.3,30.01,27.67,27.6,25.92
+Motion Blur (Sev 1),64.24,64.15,66.06,65.6,65.99,66.09
+Motion Blur (Sev 2),50.07,49.03,52.34,51.49,49.81,49.4
+Motion Blur (Sev 3),39.4,36.82,41.05,39.49,37.29,35.69
+Patch Occlusion (Sev 1),74.9,74.93,74.47,74.43,74.72,74.69
+Patch Occlusion (Sev 2),57.68,57.57,57.78,57.77,58.82,58.57
+Patch Occlusion (Sev 3),45.46,44.16,48.64,48.0,45.55,44.14
